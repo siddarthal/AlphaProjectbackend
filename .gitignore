@@ -1,1 +1,7 @@
 env/
+accounts/__pycache__/
+announcements/__pycache__/
+broadcast//__pycache__/
+events/__pycache__/
+tickets/__pycache__/
+rel_event/__pycache__/
