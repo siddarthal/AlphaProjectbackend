@@ -1,7 +1,9 @@
 env/
-accounts/__pycache__/
-announcements/__pycache__/
-broadcast//__pycache__/
-events/__pycache__/
-tickets/__pycache__/
-rel_event/__pycache__/
+rel_event/accounts/__pycache__/
+rel_event/announcements/__pycache__/
+rel_event/broadcast/__pycache__/
+rel_event/events/__pycache__/
+rel_event/tickets/__pycache__/
+rel_event/rel_event/__pycache__/
+rel_event/volunteers/__pycache__/
+rel_event/payments/__pycache__/

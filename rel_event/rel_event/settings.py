@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     "tickets",
     "broadcast",
     "announcements",
+    "volunteers",
+    "payments",
     "rest_framework",
 ]
 
